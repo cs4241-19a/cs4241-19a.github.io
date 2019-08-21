@@ -1,0 +1,53 @@
+[
+    {
+        "title": { text: "Kabasujario", link: "https://cs4241-fp-cjweeks.herokuapp.com"},
+        "team": [
+            {"name": "Connor Weeks", 
+             "email": "cjweeks@wpi.edu", 
+             "site": "https://github.com/cjweeks"},
+            {"name": "Kunal Shah", 
+             "email": "kkshah@wpi.edu",
+             "site": "https://github.com/kshah96"},
+            {"name": "Alex Kasparek", 
+             "email": "ajkasparek@wpi.edu",
+             "site": "https://github.com/akasparek"}
+        ],
+        "description":"A game of moving blocks and puzzles.",
+        "repo": "https://github.com/cjweeks/kabasujario",
+        "link":"https://cs4241-fp-cjweeks.herokuapp.com"
+    },
+    {
+        "title": { text: "maTRex", link: "http://cs4241-fp-eacoeytaux.herokuapp.com/"},
+        "team": [
+            {"name": "Ethan Coeytaux", 
+             "email": "eacoeytaux@wpi.edu", 
+             "site": "https://github.com/eacoeytaux"},
+            {"name": "Breanne Happell", 
+             "email": "bshappell@wpi.edu",
+             "site": "hhttps://github.com/bshappell"}
+        ],
+        "description":"This website can be used to make a song on the pentatonic scale with a fun matrix layout. Songs can be saved and viewed later on. You can also view songs created by other users and vote on which ones you like.",
+        "repo": "https://github.com/eacoeytaux/cs4241-fp",
+        "link":"http://cs4241-fp-eacoeytaux.herokuapp.com/"
+    },
+        {
+        "title": { text: "VR Shopping Experience", link: "https://vr-webstore-dontirun.herokuapp.com/README"},
+        "team": [
+            {"name": "Arthur Dooner", 
+             "email": "ajdooner@wpi.edu", 
+             "site": "https://github.com/shunderpooch"},
+            {"name": "Arun Donti", 
+             "email": "andonti@wpi.edu",
+             "site": "https://github.com/dontirun"},
+            {"name": "Robyn Domanico", 
+             "email": "rdomanico@wpi.edu",
+             "site": "https://github.com/Velkoz"},
+             {"name": "Stephen Lafortune", 
+             "email": "srlafortune@wpi.edu",
+             "site": " https://github.com/srlafortune"}
+        ],
+        "description":"A basic implementation of a VR Webstore. ",
+        "repo": "https://github.com/srlafortune/Webware-FinalProject",
+        "link":"https://vr-webstore-dontirun.herokuapp.com/"
+    },
+]
