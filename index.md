@@ -4,32 +4,21 @@ title: home
 ---
 
 <style>
-  @import url('https://fonts.googleapis.com/css?family=Josefin+Sans:100|Text+Me+One');
-
   h2.class-header {
-    background-color: rgba(19, 37, 62, 1);
-    color: white;
+    color: black;
 
-    font: 4.5rem/1em 'Text Me One', sans-serif;
-    text-transform: uppercase;
-    text-align: center;
-
-    padding: 1.5rem;
-    padding-top: 3rem;
     position: relative;
     z-index: -1;
   }
 
   .class-header .small {
     display: block;
-    font: lighter 1.5rem/1.3em 'Josefin Sans', sans-serif;
   }
 
   .class-header:before, .class-header:after {
     content: '';
     display: block;
     position: absolute;
-    background: url('img/wires.svg') -15px -11px/cover no-repeat padding-box;
     top: 0;
     height: 100%;
     width: 250px;
@@ -45,25 +34,23 @@ title: home
     transform: rotateY(180deg);
     background-position-y: 39px;
   }
+
+  h4 { 
+    font-size: 1rem;
+    margin-bottom:.125rem;
+  }
 </style>
 
-<h2 class="class-header">
-    Webware
-    <span class="small">cs4241</span>
-</h2>
+## Webware (CS-4241)
 
-Webware (CS-4241)
+#### A Term / 2019
 
-A Term -- 2018
-
-Location<br>
-Fuller Lower<br>
+#### Location:
+Fuller Lower  
 M/R 12:00-1:50pm
 
 ### Announcements
 
-- fri-09-07: Submit your team names using [This Google Sheet](https://docs.google.com/spreadsheets/d/1fXnPHFWVngKY-hvucU80kqk4PfYpFATIaCM1idDWSu0/edit?usp=sharing)
+- 8-21: New? [Check out init](/init/) to get started.
 
-- thu-08-23: New? [Check out init](/init/) to get started.
-
-- thu-08-23: If you have questions on assignments, missing GitHub invites, or anything else-- please use Slack and public channels! Otherwise the instructor gets [ddos'd](https://en.wikipedia.org/wiki/Denial-of-service_attack).
+- 8-21: If you have questions on assignments, missing GitHub invites, or anything else-- please use Slack and public channels! Otherwise the instructor gets [ddos'd](https://en.wikipedia.org/wiki/Denial-of-service_attack). You will receive an invite to Slack via Canvas.

@@ -8,13 +8,11 @@ Course Description
 ---
 
 This course explores the computational aspects of network information systems as embodied by the World Wide Web (WWW). 
-Topics include: languages for document design, programming languages for executable content, scripting languages, design of web-based human/computer interfaces, client/server network architecture models, high level network protocols (e.g., http), and network security issues. 
+Topics include: languages for document design, scripting languages, design of web-based human/computer interfaces, client/server network architecture models, high level network protocols (e.g., http), and network security issues. 
 Students in this course will be expected to complete a substantial software project (e.g., full stack web application). 
 
 This course provides you with the foundation needed to construct Web applications. 
 It provides you with an introduction to distributed computing paradigms for the Web as well as the knowledge for developing static and dynamic content for your Web applications. 
-You will be exposed to various protocols for technologies currently used. 
-We will focus on the underlying principles rather than just the latest technology or tool since these will pass, only to be replaced by new ones. 
 The student who successfully finishes this course will be able to pursue further study into and practice of using Web software technologies.
 
 Learning Goals
@@ -50,10 +48,6 @@ Labs
 Some weeks will include an in-class lab. 
 These labs provide an opportunity for you to learn more about web application development, design, or technologies.
 
-Exams
----
-discontinued
-
 Quizzes
 ---
 We will assign weekly readings. Quizzes will cover the readings and lectures.
@@ -66,9 +60,6 @@ We'll be primarily using [JavaScript](https://developer.mozilla.org/en-US/docs/W
 
 While JavaScript is the main language for front-end web application development, there are a variety of choices for back-end languages. Java, Python, Ruby, and many other languages have HTTP support. 
 We'll be using node.js for simplicity and consistency.
-That said, some assignments will involve exploring other server options.
-
-The first person who sends me a pull request correcting a typo or broken link will receive a tech sticker of their choosing from my collection when the new batch comes in.
 
 Discussion / Questions
 ---
@@ -76,7 +67,9 @@ Discussion / Questions
 This term we will be using Slack for class discussion. 
 The system is highly catered to getting you help fast and efficiently from classmates and myself. 
 
-Rather than emailing questions to me or the staff, post your questions on Slack to ensure you get a timely response, and to ensure that our responses can be seen by others who may need them. 
+Rather than emailing questions to me or the staff, post your questions on Slack to ensure you get a timely response, and to ensure that our responses can be seen by others who may need them.
+
+If you do need to email us, please begin your subject with \[CS4241-19A\] (exactly as shown, including the staple brackets), otherwise there's a good chance we'll miss it. Include the TAs in all emails regarding grades.   
 
 Grading
 ---
@@ -117,7 +110,7 @@ Every Readme must include a Technical Achievements and Design/Usability Achievem
 Note that the optimal strategy is to include both types of achievements in your project scope.
 In other words, it's rare for someone to get all 12 points of one type, but common for someone to play to their strengths on one side, and to try a few different things on the other side.
 
-\*Make sure any frameworks and libraries **do not** interfere with the underlying intellectual challenge of the assignment. In other words, if I ask you to write an HTTP server and you use a package, you'll lose points instead of gaining them.
+\*Make sure any frameworks and libraries **do not** interfere with the underlying intellectual challenge of the assignment. In other words, if I ask you to write an HTTP server and you use a package that provides a server in one line of code, you'll lose points instead of gaining them.
 Our aim is to open the black box of these packages in the scope of this course, so that when you encounter them later, you will be equipped to know what they're doing for you.
 
 
@@ -138,5 +131,6 @@ Acknowledgements
 ---
 
 Some aspects of these course materials were adapted from materials by:
+- Lane Harrison
 - Gary Pollice
 - Craig Shue
