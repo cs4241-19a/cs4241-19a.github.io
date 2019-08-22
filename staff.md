@@ -16,7 +16,7 @@ TAs
 Tariq Rakha, @Tariq  
 office hours: tuesdays 10–12pm, FLA22  
 
-Noëlle Rakotondravon, @Noëlle  
+Noëlle Rakotondravony, @Noëlle  
 office hours: thursdays 3–5pm, FLA22  
 
 SA  
