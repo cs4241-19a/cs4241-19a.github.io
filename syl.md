@@ -41,7 +41,7 @@ Assignments are the core of this course.
 Each assignment will focus on a particular aspect of web development, such as routes or sending data from server to client and vice versa. 
 The lectures and labs will equip you with the background, theory, and technical skills to develop web applications.
 
-Assignment are due by the end of the date listed on the calendar, e.g. if the due date is on a Thursday, the assignment is due by 11:59pm Thursday.
+Assignment are due by the start of class on the date listed on the calendar, e.g. if the due date is on a Thursday, the assignment is due by 11:59AM Thursday.
 
 Labs
 ---
@@ -50,7 +50,7 @@ These labs provide an opportunity for you to learn more about web application de
 
 Quizzes
 ---
-We will assign weekly readings. Quizzes will cover the readings and lectures.
+Quizzes will cover the readings, which in many cases will be reinforced by lectures..
 These make it possible to gauge how well you've understood the material, and help me understand how well I've communicated it.
 
 Programming Language
@@ -59,7 +59,7 @@ Programming Language
 We'll be primarily using [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) with [node.js](http://nodejs.org/) to develop web applications in this course.
 
 While JavaScript is the main language for front-end web application development, there are a variety of choices for back-end languages. Java, Python, Ruby, and many other languages have HTTP support. 
-We'll be using node.js for simplicity and consistency.
+We'll be using node.js for simplicity and consistency across client / server development.
 
 Discussion / Questions
 ---
@@ -69,15 +69,13 @@ The system is highly catered to getting you help fast and efficiently from class
 
 Rather than emailing questions to me or the staff, post your questions on Slack to ensure you get a timely response, and to ensure that our responses can be seen by others who may need them.
 
-If you do need to email us, please begin your subject with \[CS4241-19A\] (exactly as shown, including the staple brackets), otherwise there's a good chance we'll miss it. Include the TAs in all emails regarding grades.   
-
 Grading
 ---
 
 Your course grade comes from three parts:
 
 - Homework assignments (50%)
-- Quizzes (15%)
+- Quizzes and lab assignments(15%)
 - Project (35%)
 
 I reserve the right to adjust the above if needed. 
@@ -94,7 +92,7 @@ You are expected to complete the assignment and have it deployed by the due date
 
 ### Assignment Achievements
 
-Unless otherwise noted, meeting the minimum requirements for an assignment earns you a B.
+Unless otherwise noted, meeting the minimum requirements for an assignment earns you a B (85%).
 
 You may earn up to additional 24 (12+12) additional points via __Technical Achievements__ and __Design/Evaluation Achievements__.
 Achievements are an opportunity for you to take an active role in your learning and assessment.
@@ -130,7 +128,7 @@ Collaboration is, however, encouraged in this class. There are many ways in whic
 Acknowledgements
 ---
 
-Some aspects of these course materials were adapted from materials by:
+Many aspects of these course materials were adapted from materials by:
 - Lane Harrison
 - Gary Pollice
 - Craig Shue
