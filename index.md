@@ -53,4 +53,4 @@ M/R 12:00-1:50pm
 
 - 8-21: New? [Check out init](/init/) to get started.
 
-- 8-21: If you have questions on assignments, missing GitHub invites, or anything else-- please use Slack and public channels! Otherwise the instructor gets [ddos'd](https://en.wikipedia.org/wiki/Denial-of-service_attack). You will receive an invite to Slack via Canvas.
+- 8-21: If you have questions on assignments, missing GitHub invites, or anything else-- please use Slack and public channels! Otherwise the instructor gets [ddos'd](https://en.wikipedia.org/wiki/Denial-of-service_attack). You can find the Slack invite on the [init page](./init/). 

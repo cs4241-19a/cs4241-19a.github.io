@@ -27,9 +27,11 @@ This module contains the Python 3 equivalent of SimpleHTTPServer. The server can
 - [Brackets](http://brackets.io/) <- light-weight, live preview
 
 ## Learn 
-- [EloquentJS](http://eloquentjavascript.net/)
+- [EloquentJS](http://eloquentjavascript.net/) <- excellent book by a JS superstar, a nice alternative to the assigned readings on JavaScript we'll be doing
+- [NodeSchool](https://nodeschool.io/) <- A set of great tutorials on Node that you complete from within the terminal
 - [Async Programming in Node](https://blog.risingstack.com/node-hero-async-programming-in-node-js/)
 - [Learn JS Data -- manipulating data in JS](http://learnjsdata.com/)
+- [Book of Shaders](https://thebookofshaders.com) <- Learn GLSL with a fantastic set of interactive, browser-based tutorials
 
 ## UI Design
 - [Photo websites](https://blog.zipboard.co/10-stock-photo-websites-you-must-know-1ce46e1e7ef0)
