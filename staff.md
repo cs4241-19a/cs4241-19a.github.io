@@ -10,7 +10,7 @@ For all communication, please use Slack and, if appropriate, create a private me
 Instructor:  
 [Charlie Roberts](http://charlie-roberts.com), @charlie, [cdroberts@wpi.edu](mailto:cdroberts@wpi.edu)   
 office: Fuller Labs, B25b (in the IMGD suite)  
-office hours: mondays, 3–5 PM  
+office hours: tuesday, 2–4 PM  
 
 TAs   
 Tariq Rakha, @Tariq  
@@ -21,4 +21,4 @@ office hours: thursdays 3–5pm, FLA22
 
 SA  
 Cormac Lynch-Collier  
-office hours: wednesdays 3–5pm, FLA22  
+office hours: wednesdays 1–3pm, FLA22  
