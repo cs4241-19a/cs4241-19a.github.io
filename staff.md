@@ -18,6 +18,7 @@ office hours: tuesdays 10–12pm, FLA22
 
 Noëlle Rakotondravony, @Noëlle  
 office hours: thursdays 3–5pm, FLA22  
+mondays 4-6pm, FLA22 (starting next week) 
 
 SA  
 Cormac Lynch-Collier  
