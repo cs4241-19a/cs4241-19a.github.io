@@ -17,7 +17,7 @@ Tariq Rakha, @Tariq
 office hours: tuesdays 10–12pm, FLA22  
 
 Noëlle Rakotondravony, @Noëlle  
-office hours: thursdays 3–5pm, FLA22  
+office hours: mondays 4–6pm, FLA22  
 
 SA  
 Cormac Lynch-Collier  
