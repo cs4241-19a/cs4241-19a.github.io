@@ -95,7 +95,7 @@ You are expected to complete the assignment and have it deployed by the due date
 Unless otherwise noted, meeting the minimum requirements for an assignment earns you a B (85%).
 
 You may earn up to additional 24 (12+12) points via __Technical Achievements__ and __Design/Evaluation Achievements__.
-Achievements are an opportunity for you to take an active role in your learning and assessment.
+Achievements are an opportunity for you to take an active role in your learning and assessment. The maximum grade for any one assignment is 100%. Acheivement points can both boost your grade to an A and also make up for points that you might have lost in regards to the minimum requirements.
 
 A technical achievement might be: substantial additions to the project requirements, a particularly robust algorithm, non-trivial use of outside frameworks and libraries\*.
 
