@@ -18,6 +18,7 @@ office hours: tuesdays 10–12pm, FLA22
 
 Noëlle Rakotondravony, @Noëlle  
 office hours: mondays 4-6pm, FLA22 
+!!! Change of location !!! : Office hours on Mon. 09.16.2019 takes place **4-6pm** in **Fuller Labs, B25b (in the IMGD suite)**  with Prof Roberts
 
 SA  
 Cormac Lynch-Collier  
