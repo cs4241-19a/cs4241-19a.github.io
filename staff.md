@@ -12,7 +12,7 @@ Instructor:
 office: Fuller Labs, B25b (in the IMGD suite)  
 office hours: tuesday, 2–4 PM  
 
-!!! Change of time !!! : Office hours will be on Wednesday 09.18.2019 from **9-11am** in **FLA22** with TA Tariq
+!!! Change of Time and Location !!! : Office hours will be on Wednesday 09.18.2019 from **9-11am** in **FLA22** with TA Tariq
 
 TAs   
 Tariq Rakha, @Tariq  
