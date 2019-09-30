@@ -14,9 +14,7 @@ office hours: tuesday, 2–4 PM
 
 TAs   
 Tariq Rakha, @Tariq  
-office hours: tuesdays 10–11:55a, FLA22  
-
-!! On Tuesday Sep 24, takes places with TA Noelle; at FLA22 !!
+office hours: tuesdays 9-11am, FLA22  
 
 Noëlle Rakotondravony, @Noëlle  
 office hours: mondays 4-6pm, FLA22 
